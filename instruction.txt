@@ -1,0 +1,21 @@
+
+##  This is a simple encoder and decoder system.  ##
+
+It's mainly build by javascript function- btoa() and atob().
+
+In this project use:-
+
+HTML = class, id, div, input, p, h1, button etc. all of class's use in style and id(text) use for js.
+
+CSS = there are use various style effect.
+
+Bootstarp = use for responsive page.
+
+Js =  behind the logic three function play--
+
+formdata() = add a javascript event listener onclick method into the button to call the function.
+btoa()     = this function creates a base-64 encoded ASCII string from a "string" of binary data.
+atob()     = this function decodes a string of data which has been encoded using base-64 encoding.
+
+After that use a some variable and style to display.
+You can also check it by console to remove the command.
