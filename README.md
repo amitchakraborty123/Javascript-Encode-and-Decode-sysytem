@@ -1,1 +1,1 @@
-# Javascript-Encode-and-Decode-sysytem
+# Javascript-Encode-and-Decode-system
